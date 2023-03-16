@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ****
 🐛 Code Record
 
-![cyh1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyh1998&show_icons=true&theme=radical&count_private=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyh1998&theme=radical&layout=compact)
+![cyh1998's GitHub stats](https://github-readme-stats-tau-dun.vercel.app/api?username=cyh1998&show_icons=true&theme=radical&count_private=true&hide_title=true)
+![Top Langs](https://github-readme-stats-tau-dun.vercel.app/api/top-langs/?username=cyh1998&theme=radical&layout=compact)
 
 **** 
 🔗 Other Links
